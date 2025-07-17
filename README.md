@@ -30,3 +30,10 @@ Designing an RPG/dating sim with branching logic and dialog trees to practice st
 
 - Email: bleufabs@gmail.com  
 - GitHub: [bleufabs](https://github.com/bleufabs)
+
+## 🛠️ Skills
+
+- Frontend: HTML, CSS, JavaScript, jQuery  
+- Backend: PHP, learning C#  
+- Tools: Git, GitHub, XAMPP  
+- Concepts: REST APIs, CRUD operations, responsive design
