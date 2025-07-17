@@ -45,3 +45,19 @@ h2 {
 .project a:hover {
   text-decoration: underline;
 }
+
+.resume-btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 16px;
+  background-color: #007acc;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.resume-btn:hover {
+  background-color: #005fa3;
+}
